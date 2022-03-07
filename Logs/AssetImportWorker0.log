@@ -1,0 +1,206 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/logan/Desktop/Works/unityproject/FluidShader
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54687
+Successfully changed project path to: /Users/logan/Desktop/Works/unityproject/FluidShader
+/Users/logan/Desktop/Works/unityproject/FluidShader
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/logan/Desktop/Works/unityproject/FluidShader/Assets
+GfxDevice: creating device client; threaded=0
+2022-03-07 21:55:18.800 Unity[35629:2269820] PHL 243V7 preferred device: Intel(R) UHD Graphics 630 (low power)
+2022-03-07 21:55:18.800 Unity[35629:2269820] Metal devices available: 1
+2022-03-07 21:55:18.800 Unity[35629:2269820] 0: Intel(R) UHD Graphics 630 (low power)
+2022-03-07 21:55:18.800 Unity[35629:2269820] Using device Intel(R) UHD Graphics 630 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 630
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56629
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000478 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 25.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.523 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.11f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1409 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.0 MB.
+System memory in use after: 139.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1843.
+Total: 1.887180 ms (FindLiveObjects: 0.143755 ms CreateObjectMapping: 0.038419 ms MarkObjects: 1.625775 ms  DeleteObjects: 0.078469 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FluidSim2D/Scenes/SoapFilm.unity
+  artifactKey: Guid(1d45983aa01a81a4a83c72e4b98882c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FluidSim2D/Scenes/SoapFilm.unity using Guid(1d45983aa01a81a4a83c72e4b98882c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1bec63a9bb91ec1cf40ff568f477fc') in 0.008867 seconds
+  Import took 0.010653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.202468 seconds.
+  path: Assets/Shaders/Smoke.shader
+  artifactKey: Guid(6c54395635cc84dd5a06843387ae73b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Smoke.shader using Guid(6c54395635cc84dd5a06843387ae73b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1739e27fcecc5d9898ed8af7c865d8f2') in 0.676587 seconds
+  Import took 0.678611 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.980 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.5 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1846.
+Total: 1.650857 ms (FindLiveObjects: 0.138787 ms CreateObjectMapping: 0.042649 ms MarkObjects: 1.418344 ms  DeleteObjects: 0.050290 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.195576 seconds.
+  path: Assets/Shaders/Smoke.shader
+  artifactKey: Guid(6c54395635cc84dd5a06843387ae73b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders/Smoke.shader using Guid(6c54395635cc84dd5a06843387ae73b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d524bf23872d2e5e8fffb360c69d91b') in 0.012857 seconds
+  Import took 0.014917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.872790 seconds.
+  path: Assets/Scripts/Smoke.cs
+  artifactKey: Guid(b2c3e9d20f6154367bdbdefd0389fee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Smoke.cs using Guid(b2c3e9d20f6154367bdbdefd0389fee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2169e633ee465b2f87b9ee63e0843cdf') in 0.187411 seconds
+  Import took 0.190104 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.0 MB.
+System memory in use after: 146.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1849.
+Total: 1.615293 ms (FindLiveObjects: 0.133301 ms CreateObjectMapping: 0.038746 ms MarkObjects: 1.396729 ms  DeleteObjects: 0.045759 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.3 MB.
+System memory in use after: 146.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 1.560460 ms (FindLiveObjects: 0.131919 ms CreateObjectMapping: 0.040991 ms MarkObjects: 1.343605 ms  DeleteObjects: 0.043198 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.5 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1855.
+Total: 1.561872 ms (FindLiveObjects: 0.131452 ms CreateObjectMapping: 0.038349 ms MarkObjects: 1.347432 ms  DeleteObjects: 0.043882 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1386 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.7 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1858.
+Total: 1.530685 ms (FindLiveObjects: 0.121489 ms CreateObjectMapping: 0.033009 ms MarkObjects: 1.336284 ms  DeleteObjects: 0.039283 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5E7722A5-04EA-DD68-6934-5A7787144984}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Smoke.shader">
+    <Files>
+      <File FileName="Assets/Shaders/Smoke.shader" Line="68" Column="16" />
+      <File FileName="Assets/Scripts/Smoke.cs" />
+      <File FileName="Assets/Scripts/Euler.cs" />
+      <File FileName="Assets/FluidSim2D/FluidSimCore.cs" Line="17" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FluidShader" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca1b587a-1d44-4682-a13e-f2bd6aebc22e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
